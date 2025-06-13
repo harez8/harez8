@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-P4rdo/M-P4rdo/master/M-P4rdo_Banner.png" width="800">
-</p>
 <div align="center">
 <h1 align="center">Hi, I´m Heider!</h1>
 </div>
