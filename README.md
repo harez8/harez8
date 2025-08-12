@@ -11,7 +11,7 @@
 - 👾 a **student** working his way around things.
 - ⭐ Currently Software Development student.
 - ☁️ Exploring the world of AI and software development
-- 🌱 I’m currently learning Git, Java and React.
+- 🌱 I’m currently learning PL/SQL, Java and Python.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Sql, Java, Python.
 - 🎯 My goal is to specialize in artificial intelligence and software development.
